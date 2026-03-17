@@ -35,9 +35,14 @@
 
 <p align="center">
 	<strong>Priority:</strong> cache locality, DOD, zero-overhead memory, maximum performance.<br/>
-	<strong>Credo:</strong> -O3 -march=native -ffreestanding -fno-strict-aliasing<br/>
+	<strong>Credo:</strong> <code>-O3 -march=native -ffreestanding -fno-strict-aliasing</code><br/>
 	<strong>Hardware lore:</strong> liberated all I2C slaves from their masters.<br/><br/>
-	<strong>Contact:</strong><a href="mailto:gameropa44@gmail.com"> gameropa44@gmail.com</a><br/>
+	<strong>Contact:</strong> <a href="mailto:gameropa44@gmail.com">gameropa44@gmail.com</a><br/>
+</p>
+<br />
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=4000&pause=1000&color=F8F8F2&background=282A3600&center=true&vCenter=true&width=600&lines=sudo%20rm%20-rf%20%2F%20--no-preserve-root;error: 0x49276D20676179;I+use+arch+btw" alt="Terminal Animation" />
 </p>
 
 <br/><br/>
