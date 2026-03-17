@@ -1,28 +1,103 @@
-<h1 align="center">Hi 👋, I'm Gameropa</h1>
-<h3 align="center">A high-performance-oriented C++ and C developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gameropa&label=Profile%20views&color=0e75b6&style=flat" alt="gameropa" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gameropa" alt="gameropa" /></a> </p>
-
-- 🔭 I’m currently working on [Ouroboros](https://github.com/Ouroboros-Enterprise/Ouroboros)
-
-- 🌱 I’m currently learning **C++, C and C#**
-
-- 💬 Ask me about **C++**
-
-- 📫 How to reach me **gameropa44@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+	<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Gameropa&fontAlign=50&fontAlignY=32&color=0:0b0014,35:2d0b55,70:ff007a,100:00f7ff&fontColor=ffffff&desc=Professional%20Penguin%20Trainer%20%7C%20High-Performance%20Dev&descAlignY=59&descAlign=50" alt="Gameropa banner" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+	<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=700&color=FF4FD8&center=true&vCenter=true&width=900&lines=1024+certified+penguins+per+year;Always+-O3+-march%3Dnative+-ffreestanding;Freed+all+I2C+slaves+from+their+masters;Not+lazy%2C+just+practicing+entropy;I+use+arch+btw" alt="Typing intro" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gameropa&show_icons=true&theme=tokyonight&hide_border=true&locale=en&layout=compact" alt="gameropa" /></p>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gameropa&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800&locale=en" alt="gameropa" /></p>
+<p align="center">
+	<a href="https://github.com/Ouroboros-Enterprise/Ouroboros">
+		<img src="https://img.shields.io/badge/Current%20Project-Ouroboros-ff007a?style=for-the-badge&logo=github&logoColor=white" alt="Current project" />
+	</a>
+	<a href="mailto:gameropa44@gmail.com">
+		<img src="https://img.shields.io/badge/Contact-Email-00d9ff?style=for-the-badge&logo=gmail&logoColor=001018" alt="Email" />
+	</a>
+	<img src="https://komarev.com/ghpvc/?username=gameropa&label=Cache%20Hits&color=ff2bd6&style=for-the-badge" alt="Cache hits" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gameropa&theme=dark" alt="gameropa" /></p>
+<br/><br/>
 
+<h2 align="center">The Manifest</h2>
+
+<br/>
+
+<p align="center">
+	Professional Penguin Trainer focused on low-level optimization, manual memory control, and clean architecture.<br/><br/>
+	Currently architecting <a href="https://github.com/Ouroboros-Enterprise/Ouroboros">Ouroboros</a>.
+</p>
+
+<br/>
+
+<h3 align="center">Sidefacts</h3>
+
+<p align="center">
+	<strong>Priority:</strong> cache locality, DOD, zero-overhead memory, maximum performance.<br/>
+	<strong>Credo:</strong> -O3 -march=native -ffreestanding -fno-strict-aliasing<br/>
+	<strong>Hardware lore:</strong> liberated all I2C slaves from their masters.<br/><br/>
+	<strong>Contact:</strong><a href="mailto:gameropa44@gmail.com"> gameropa44@gmail.com</a><br/>
+</p>
+
+<br/><br/>
+
+<h2 align="center">Tech Stack</h2>
+
+<h3 align="center">Kernel Space</h3>
+
+<p align="center">
+	<img src="https://img.shields.io/badge/C%2B%2B23-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++23" />
+	<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=111111" alt="C" />
+	<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+	<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+	<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111111" alt="Linux" />
+    <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
+    <br />
+    <img src="https://img.shields.io/badge/Clang-170E12?style=for-the-badge&logo=clang&logoColor=white" alt="Clang" />
+    <img src="https://img.shields.io/badge/GCC-FFD21E?style=for-the-badge&logo=gnu&logoColor=050505" alt="GCC" />
+    <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" />
+    <img src="https://img.shields.io/badge/GNU_Make-000000?style=for-the-badge&logo=gnu&logoColor=white" />
+    <img src="https://img.shields.io/badge/LLVM-1D2021?style=for-the-badge&logo=llvm&logoColor=white" alt="LLVM" />
+	<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+<br/>
+
+<h3 align="center">User Space</h3>
+
+<p align="center">
+	<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111" alt="JavaScript" />
+	<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+	<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+	<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+	<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+	<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
+	<br />
+	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+	<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+	<img src="https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
+	<img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
+	<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
+	<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+</p>
+
+<br/><br/>
+
+<h2 align="center">Performance Metrics</h2>
+
+<p align="center">
+	<img width="49%" src="https://github-readme-stats.vercel.app/api?username=gameropa&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="GitHub stats" />
+	<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=gameropa&theme=radical&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+	<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=gameropa&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
+</p>
+
+<br/>
+
+<p align="center">
+	Fun fact: 49 27 6D 20 67 61 79.
+</p>
