@@ -42,7 +42,7 @@
 <br />
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=20&duration=4000&pause=1000&color=F8F8F2&background=282A3600&center=true&vCenter=true&width=600&lines=sudo%20rm%20-rf%20%2F%20--no-preserve-root;error: 0x49276D20676179;I+use+arch+btw" alt="Terminal Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=4000&pause=1000&color=F8F8F2&background=00000000&center=true&vCenter=true&width=600&lines=sudo%20rm%20-rf%20%2F%20--no-preserve-root%3Berror%3A%200x49276D20676179%3BI%20use%20arch%20btw" alt="Terminal Animation" />
 </p>
 
 <br/><br/>
