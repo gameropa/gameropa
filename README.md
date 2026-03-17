@@ -26,7 +26,7 @@
 
 <p align="center">
 	Professional Penguin Trainer focused on low-level optimization, manual memory control, and clean architecture.<br/><br/>
-	Currently architecting <a href="https://github.com/Ouroboros-Enterprise/Ouroboros">Ouroboros</a>.
+	Currently architecting <a href="https://github.com/Ouroboros-Enterprise/Ouroboros">Ouroboros</a>
 </p>
 
 <br/>
@@ -104,5 +104,5 @@
 <br/>
 
 <p align="center">
-	Fun fact: 49 27 6D 20 67 61 79.
+	Fun fact: 49 27 6D 20 67 61 79
 </p>
