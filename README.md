@@ -1,9 +1,9 @@
 <p align="center">
-	<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Gameropa&fontAlign=50&fontAlignY=32&color=0:0b0014,35:2d0b55,70:ff007a,100:00f7ff&fontColor=ffffff&desc=Professional%20Penguin%20Trainer%20%7C%20High-Performance%20Dev&descAlignY=59&descAlign=50" alt="Gameropa banner" />
+	<img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=VADDPenguin$&fontAlign=50&fontAlignY=32&color=0:0b0014,35:2d0b55,70:ff007a,100:00f7ff&fontColor=ffffff&desc=Professional%20Penguin%20Trainer%20%7C%20High-Performance%20Dev&descAlignY=59&descAlign=50" alt="Gameropa banner" />
 </p>
 
 <p align="center">
-	<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=700&color=FF4FD8&center=true&vCenter=true&width=900&lines=1024+certified+penguins+per+year;Always+-O3+-march%3Dnative+-ffreestanding;Freed+all+I2C+slaves+from+their+masters;Not+lazy%2C+just+practicing+entropy;I+use+arch+btw" alt="Typing intro" />
+	<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=700&color=FF4FD8&center=true&vCenter=true&width=900&lines=1024+certified+penguins+per+year;Always+-O3+-march%3Dnative+-ffreestanding;Freed+all+I2C+slaves+from+their+masters;Not+lazy%2C+just+practicing+entropy;I+use+arch+btw;Only+AT%26T+syntax+for+x86_64+assembly" alt="Typing intro" />
 </p>
 
 <br/>
@@ -93,12 +93,12 @@
 <h2 align="center">Performance Metrics</h2>
 
 <p align="center">
-	<img width="49%" src="https://github-readme-stats.vercel.app/api?username=gameropa&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="GitHub stats" />
-	<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=gameropa&theme=radical&hide_border=true" alt="GitHub streak" />
+    <img width="49%" src="https://github-readme-stats-one-bice.vercel.app/api?username=gameropa&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
+    <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=gameropa&theme=radical&hide_border=true" alt="GitHub streak" />
 </p>
 
 <p align="center">
-	<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=gameropa&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
+    <img width="45%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs?username=gameropa&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
 </p>
 
 <br/>
